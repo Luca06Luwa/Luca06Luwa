@@ -1,16 +1,19 @@
 ### Hi there 👋
+My name is Luca (also known as this shitty named called "Luca06Luwa"
+- 🖊I’m currently working on:
 
-<!--
-**Luca06Luwa/Luca06Luwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The Fun Games Company Swapper (Fortnite Skin Swapper)
 
-Here are some ideas to get you started:
+Other small shitty projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻Coding Languages:
+
+Learning C# Since June 2019
+
+Learning Py Since September 2020
+
+
+
+
+<h3> Not sure how you got here but thanks for reading :) </h3>
+
