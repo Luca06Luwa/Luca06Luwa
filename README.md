@@ -2,7 +2,7 @@
 My name is Luca (also known as this shitty named called "Luca06Luwa"
 - 🖊I’m currently working on:
 
-The Fun Games Company Swapper (Fortnite Skin Swapper)
+Discord Bot (Node.js)
 
 Other small shitty projects
 
