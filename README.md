@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Luca. I have been a working on code for about 5 years now and I'm still bad. (Most of the time.)
+My name is Luca. I have been a working on code for a few years now and I'm still bad. (Most of the time.)
 - 🖊 Stuff I’m currently working on:
 
 Discord Bot (Node.js)
@@ -7,10 +7,6 @@ Discord Bot (Node.js)
 Website
 
 Other small shitty projects that don't work
-
-- Stuff I'm not working on/have discontinued
-
-Dire Swapper
 
 - 💻Coding Languages:
 
