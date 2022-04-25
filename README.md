@@ -2,11 +2,11 @@ Hi there 👋 I'm Luca06Luwa. I have been a working on code for a few years now 
 ---
 ### :computer: Stuff I’m currently working on:
 
-Discord Bot (Node.js)
+- Discord Bot (Node.js)
 
-Website
+- Website
 
-Other small shitty projects that don't work
+- Other small shitty projects that don't work
 
 ---
 ### :hammer_and_wrench: Coding Languages/tools I know. (Or at least have tried to learn.):
