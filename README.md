@@ -1,4 +1,4 @@
-Hi there 👋 I'm Luca06Luwa founder and CEO of Abyssal Studios. I have been a working on code for a few years now and I'm still bad. (Most of the time.) I also have my very own website [Insert URL Here] and a discord server [Insert Invite Code Here].
+Hi there 👋 I'm Luca06Luwa. Founder and CEO of Abyssal Studios. I have been a working on code for a few years now and I'm still bad. (Most of the time.) I also have my very own website [Insert URL Here] and a discord server [Insert Invite Code Here].
 ---
 ### :computer: Stuff I’m currently working on:
 
@@ -19,7 +19,7 @@ Hi there 👋 I'm Luca06Luwa founder and CEO of Abyssal Studios. I have been a w
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCODE" alt="VSCODE" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS" alt="VS" width="40" height="40"/>&nbsp;
 ---
-![Luca06Luwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=luca06luwa&show_icons=true&theme=gotham)
+
 
 <h3> Not sure how you got here but thanks for reading :) </h3>
 
