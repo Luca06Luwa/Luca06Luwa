@@ -1,4 +1,4 @@
-Hi there 👋 I'm Luca06Luwa. I have been a working on code for a few years now and I'm still bad. (Most of the time.) I also have my very own website [Insert URL Here] and a discord server [Insert Invite Code Here].
+Hi there 👋 I'm Luca06Luwa founder and CEO of Abyssal Studios. I have been a working on code for a few years now and I'm still bad. (Most of the time.) I also have my very own website [Insert URL Here] and a discord server [Insert Invite Code Here].
 ---
 ### :computer: Stuff I’m currently working on:
 
