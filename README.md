@@ -18,6 +18,8 @@ Hi there 👋 I'm Luca06Luwa. Founder and CEO of Abyssal Studios. I have been a 
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCODE" alt="VSCODE" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS" alt="VS" width="40" height="40"/>&nbsp;
+---
+![Abyssal Studios' GitHub stats](https://github-readme-stats.vercel.app/api?username=luca06luwa&show_icons=true&theme=gotham)
 
 <h3> Not sure how you got here but thanks for reading :) </h3>
 
