@@ -1,6 +1,8 @@
-Hi there 👋 I'm Luca06Luwa. Founder and CEO of Abyssal Studios. I have been a working on code for a few years now and I'm still bad. (Most of the time.) I also have my very own website [Insert URL Here] and a discord server [Insert Invite Code Here].
+Hi there 👋 I'm Luca06Luwa. Founder and CEO of Abyssal Studios. 
+I have been a working on code for a few years now and I'm still bad. 
+I also have my very own website [Insert URL Here] and a discord server [Insert Invite Code Here].
 ---
-### :computer: Stuff I’m currently working on:
+### Stuff I’m currently working on:
 
 - Discord Bot (Node.js)
 
@@ -9,15 +11,16 @@ Hi there 👋 I'm Luca06Luwa. Founder and CEO of Abyssal Studios. I have been a 
 - Other small shitty projects that don't work
 
 ---
-### :hammer_and_wrench: Coding Languages/tools I know. (Or at least have tried to learn.):
+### Coding Languages/tools I know. (Or at least have tried to learn.):
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" alt="PYTHON" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="CSHARP" alt="CSHARP" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCODE" alt="VSCODE" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="VsCode" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS" alt="VS" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 ---
 
 <h3> Not sure how you got here but thanks for reading :) </h3>
