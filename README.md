@@ -4,8 +4,6 @@ I also have my very own website [Insert URL Here] and a discord server [Insert I
 ---
 ### Stuff I’m currently working on:
 
-- Discord Bot (Node.js)
-
 - Website
 
 - Other small shitty projects that don't work
