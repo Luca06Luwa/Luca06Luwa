@@ -10,7 +10,7 @@ I also have my very own website [Insert URL Here] and a discord server [Insert I
 
 - Website
 
-- CH Launcher Redux
+- Clone Hero Control Panel
 
 - Other small shitty projects that don't work
 
