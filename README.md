@@ -10,9 +10,12 @@ I also have my very own website [Insert URL Here] and a discord server [Insert I
 
 - Website
 
-- Clone Hero Control Panel
-
 - Other small shitty projects that don't work
+
+---
+### Archived projects:
+
+- Clone Hero Control Panel
 
 ---
 ### Coding Languages/tools I know. (Or at least have tried to learn.):
