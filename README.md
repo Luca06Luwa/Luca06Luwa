@@ -13,7 +13,7 @@ I also have my very own website [Insert URL Here] and a discord server [Insert I
 - Other small shitty projects that don't work
 
 ---
-### Archived projects or rojects that I don't want to work on anymore:
+### Archived projects or projects that I don't want to work on anymore:
 
 - Clone Hero Control Panel
 
