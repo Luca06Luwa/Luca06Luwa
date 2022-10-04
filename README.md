@@ -1,7 +1,7 @@
-Hi there 👋 I'm Luca06Luwa. Founder and CEO of Abyssal Studios.
+Hello there. I'm Luca06Luwa. Founder and CEO of Abyssal Studios.
 ---
 
-I have been a working on code for a few years now and I'm still bad.
+I have been a working on code for a few years now and I'm still terrible.
 
 I also have my very own website [Insert URL Here] and a discord server [Insert Invite Code Here].
 
@@ -13,7 +13,7 @@ I also have my very own website [Insert URL Here] and a discord server [Insert I
 - Other small shitty projects that don't work
 
 ---
-### Archived projects:
+### Archived projects or rojects that I don't want to work on anymore:
 
 - Clone Hero Control Panel
 
