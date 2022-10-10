@@ -10,14 +10,17 @@ I also have my very own website [Insert URL Here] and a discord server [Insert I
 
 - Website
 
-- Porting Clone Hero to the scoop package manager
-
 - Other small shitty projects that don't work
 
 ---
 ### Archived projects or projects that I don't want to work on anymore:
 
 - Clone Hero Control Panel
+
+---
+### Finished Projects:
+
+- Successfully ported Clone Hero to the scoop package manager (If you have the games bucket added to your scoop install just type 'scoop install clone hero'.)
 
 ---
 ### Coding Languages/tools I know. (Or at least have tried to learn.):
