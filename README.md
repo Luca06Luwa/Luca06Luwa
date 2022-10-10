@@ -20,7 +20,12 @@ I also have my very own website [Insert URL Here] and a discord server [Insert I
 ---
 ### Finished Projects:
 
-- Successfully ported Clone Hero to the scoop package manager (If you have the games bucket added to your scoop install just type 'scoop install clone hero'.)
+- Successfully ported Clone Hero to the scoop package manager. If you want to install Clone Hero v0.23.2.2 just use the following commands:
+
+```sh
+scoop bucket add games
+scoop install clone hero
+```
 
 ---
 ### Coding Languages/tools I know. (Or at least have tried to learn.):
