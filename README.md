@@ -10,6 +10,8 @@ I also have my very own website [Insert URL Here] and a discord server [Insert I
 
 - Website
 
+- Porting Clone Hero to the scoop package manager
+
 - Other small shitty projects that don't work
 
 ---
