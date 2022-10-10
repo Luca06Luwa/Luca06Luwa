@@ -24,7 +24,7 @@ I also have my very own website [Insert URL Here] and a discord server [Insert I
 
 ```sh
 scoop bucket add games
-scoop install clone hero
+scoop install clonehero
 ```
 
 ---
