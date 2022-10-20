@@ -24,7 +24,7 @@ I also have my very own website [Insert URL Here] and a discord server [Insert I
 
 - Uploaded the guide I use to install Arch Linux and setup QEMU through KVM
 
-- Successfully ported Clone Hero to the scoop package manager. If you want to install Clone Hero v0.23.2.2 just use the following commands:
+- Successfully ported Clone Hero Stable to the scoop package manager. If you want to install Clone Hero v0.23.2.2 just use the following commands:
 
 ```sh
 scoop bucket add games
