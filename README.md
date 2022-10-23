@@ -1,23 +1,23 @@
 Hello there. I'm Luca06Luwa. Founder and CEO of Abyssal Studios.
 ---
 
-I have been a working on code for a few years now and I'm still terrible.
+I have been a working on code for a few years now and I still suck at coding.
 
 I also have my very own website [Insert URL Here] and a discord server [Insert Invite Code Here].
 
 ---
 ### Stuff I’m currently working on:
 
-- Website
+- Website (least of my worries).
 
 - Porting Clone Hero PTB to the scoop package manager (will take time)
 
-- Other small shitty projects that don't work
+- Other small shitty projects that don't work (most of the time)
 
 ---
 ### Archived projects or projects that I don't want to work on anymore:
 
-- Clone Hero Control Panel
+- Clone Hero Control Panel (Made redundent by the upstream devs and me adding CH to the scoop package manager).
 
 ---
 ### Finished Projects:
@@ -32,7 +32,7 @@ scoop install clonehero
 ```
 
 ---
-### Coding Languages/tools I know. (Or at least have tried to learn.):
+### Coding Languages/tools I know. (Or at least have tried to learn):
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
