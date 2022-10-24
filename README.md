@@ -10,6 +10,8 @@ I also have my very own website [Insert URL Here] and a discord server [Insert I
 
 - Website (least of my worries).
 
+- Packaging Frost Softwares programs to the scoop package manager (kind of complex)
+
 - Porting Clone Hero PTB to the scoop package manager (will take time)
 
 - Other small shitty projects that don't work (most of the time)
