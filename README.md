@@ -12,14 +12,14 @@ I also have my very own website [Insert URL Here] and a discord server [Insert I
 
 - Packaging Frost Softwares programs to the scoop package manager (kind of complex)
 
-- Porting Clone Hero PTB to the scoop package manager (will take time)
+- Porting Clone Hero PTB to the scoop package manager (still need to workout sha1 verification)
 
 - Other small shitty projects that don't work (most of the time)
 
 ---
 ### Archived projects or projects that I don't want to work on anymore:
 
-- Clone Hero Control Panel (Made redundent by the upstream devs and me adding CH to the scoop package manager).
+- Clone Hero Control Panel (Made redundent by the upstream devs and by me adding CH to the scoop package manager).
 
 ---
 ### Finished Projects:
