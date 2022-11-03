@@ -10,10 +10,6 @@ I also have my very own website [Insert URL Here] and a discord server [Insert I
 
 - Website (least of my worries).
 
-- Packaging Frost Softwares programs to the scoop package manager (kind of complex)
-
-- Porting Clone Hero PTB to the scoop package manager (still need to workout sha1 verification)
-
 - Other small shitty projects that don't work (most of the time)
 
 ---
@@ -21,12 +17,16 @@ I also have my very own website [Insert URL Here] and a discord server [Insert I
 
 - Clone Hero Control Panel (Made redundent by the upstream devs and by me adding CH to the scoop package manager).
 
+- Porting Clone Hero PTB to the scoop package manager (Didn't want to work out installers).
+
+- Packaging Frost Softwares programs to the scoop package manager (Didn't want to deal with hosting the repo).
+
 ---
 ### Finished Projects:
 
-- Uploaded the guide I use to install Arch Linux and setup QEMU through KVM
+- Uploaded the guide I use to install Arch Linux and setup QEMU through KVM (This is always being updated.)
 
-- Successfully ported Clone Hero Stable to the scoop package manager. If you want to install Clone Hero v0.23.2.2 just use the following commands:
+- Successfully ported Clone Hero Stable to the scoop package manager. (Only did it for convinence). If you want to install Clone Hero v0.23.2.2 just use the following commands:
 
 ```sh
 scoop bucket add games
