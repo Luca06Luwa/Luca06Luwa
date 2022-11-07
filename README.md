@@ -10,7 +10,7 @@ I also have my very own website [Insert URL Here] and a discord server [Insert I
 
 - Website (least of my worries).
 
-- Writing up the Aroma CFW Guide for the Wii U Hacks Guide. (Hopefully should be ready to me merged into the master branch).
+- Writing up the Aroma CFW Guide for the Wii U Hacks Guide. (A pull request has been made on the git repo).
 
 - Other small shitty projects that don't work (most of the time)
 
