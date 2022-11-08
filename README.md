@@ -1,7 +1,7 @@
 Hello there. I'm Luca06Luwa. Founder and CEO of Abyssal Studios.
 ---
 
-I have been a working on code for a few years now and I still suck at coding.
+I have been a working on code for a few years now and I'm still terrible at coding.
 
 I also have my very own website [Insert URL Here] and a discord server [Insert Invite Code Here].
 
@@ -12,7 +12,7 @@ I also have my very own website [Insert URL Here] and a discord server [Insert I
 
 - Writing up the Aroma CFW Guide for the Wii U Hacks Guide. (A pull request has been made on the git repo).
 
-- Other small shitty projects that don't work (most of the time)
+- Other small shitty projects that don't work. (Most of the time).
 
 ---
 ### Archived projects or projects that I don't want to work on anymore:
@@ -21,14 +21,14 @@ I also have my very own website [Insert URL Here] and a discord server [Insert I
 
 - Porting Clone Hero PTB to the scoop package manager (Didn't want to work out installers).
 
-- Packaging Frost Softwares programs to the scoop package manager (Didn't want to deal with hosting the repo).
+- Packaging Frost Softwares programs to the scoop package manager (Didn't want to deal with it).
 
 ---
 ### Finished Projects:
 
-- Uploaded the guide I use to install Arch Linux and setup QEMU through KVM (This is always being updated.)
+- Uploaded the guide I use to install Arch Linux and setup QEMU through KVM (This is always being updated).
 
-- Successfully ported Clone Hero Stable to the scoop package manager. (Only did it for convinence). If you want to install Clone Hero v0.23.2.2 just use the following commands:
+- Successfully ported Clone Hero Stable to the scoop package manager. (Only did it because I wanted to). If you want to install Clone Hero v0.23.2.2 just use the following commands:
 
 ```sh
 scoop bucket add games
@@ -42,10 +42,9 @@ scoop install clonehero
  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 ---
 
 <h3> Not sure how you got here but thanks for reading :) </h3>
