@@ -3,8 +3,6 @@ Hello there. I'm Luca06Luwa. Founder and CEO of Abyssal Studios.
 
 I have been a working on code for a few years now and I'm still terrible at coding.
 
-I also have my very own website [Insert URL Here] and a discord server [Insert Invite Code Here].
-
 ---
 ### Stuff I’m currently working on:
 
