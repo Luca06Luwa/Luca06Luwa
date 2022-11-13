@@ -8,8 +8,6 @@ I have been a working on code for a few years now and I'm still terrible at codi
 
 - Website (least of my worries).
 
-- Writing up the Aroma CFW Guide for the Wii U Hacks Guide. (A pull request has been made on the git repo).
-
 - Other small shitty projects that don't work. (Most of the time).
 
 ---
@@ -20,6 +18,8 @@ I have been a working on code for a few years now and I'm still terrible at codi
 - Porting Clone Hero PTB to the scoop package manager (Didn't want to work out installers).
 
 - Packaging Frost Softwares programs to the scoop package manager (Didn't want to deal with it).
+
+- Writing up the Aroma CFW Guide for the Wii U Hacks Guide. (Upstream devs made a better version).
 
 ---
 ### Finished Projects:
