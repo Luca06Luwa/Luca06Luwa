@@ -24,7 +24,7 @@ I have been a working on code for a few years now and I'm still terrible at codi
 ---
 ### Finished Projects:
 
-- Uploaded the guide I use to install Arch Linux and setup QEMU through KVM (This is always being updated).
+- Uploaded the guide I use to install Arch Linux and setup QEMU through KVM (At a paint where it no longer needs updates).
 
 - Successfully ported Clone Hero Stable to the scoop package manager. (Only did it because I wanted to). If you want to install Clone Hero v0.23.2.2 just use the following commands:
 
