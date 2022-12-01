@@ -15,11 +15,11 @@ I have been a working on code for a few years now and I'm still terrible at codi
 
 - Clone Hero Control Panel (Made redundent by the upstream devs and by me adding CH to the scoop package manager).
 
-- Porting Clone Hero PTB to the scoop package manager (Didn't want to work out installers).
+- Porting Clone Hero v1.0.0.4080-final to the scoop package manager (Didn't want to work out installers).
 
 - Packaging Frost Softwares programs to the scoop package manager (Didn't want to deal with it).
 
-- Writing up the Aroma CFW Guide for the Wii U Hacks Guide. (Upstream devs made a better version).
+- Writing up the Aroma CFW Guide for the Wii U Hacks Guide.
 
 ---
 ### Finished Projects:
