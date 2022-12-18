@@ -6,7 +6,7 @@ I have been a working on code for a few years now and I'm still terrible at codi
 ---
 ### Stuff I’m currently working on:
 
-- Website (least of my worries).
+- Converting the Linux Guides to the cleaner looking format md to replace the txt format
 
 - Other small shitty projects that don't work. (Most of the time).
 
@@ -21,12 +21,14 @@ I have been a working on code for a few years now and I'm still terrible at codi
 
 - Writing up the Aroma CFW Guide for the Wii U Hacks Guide.
 
+- Website (least of my worries).
+
 ---
 ### Finished Projects:
 
 - Uploaded the guide I use to install Arch Linux and setup QEMU through KVM (At a paint where it no longer needs updates).
 
-- Successfully ported Clone Hero Stable to the scoop package manager. (Only did it because I wanted to). If you want to install Clone Hero v0.23.2.2 just use the following commands:
+- Successfully ported Clone Hero Stable to the scoop package manager. (Only did it because I thought it was a good idea). If you want to install Clone Hero v0.23.2.2 just use the following commands:
 
 ```sh
 scoop bucket add games
