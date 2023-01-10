@@ -19,12 +19,12 @@ I have been a working on code for a few years now and I'm still terrible at codi
 
 - Packaging Frost Softwares programs to the scoop package manager (Didn't want to deal with it).
 
-- Writing up the Aroma CFW Guide for the Wii U Hacks Guide.
-
 - Website (least of my worries).
 
 ---
 ### Finished Projects:
+
+- Aroma CFW Guide for my own version of the guides.
 
 - Uploaded the guide I use to install Arch Linux and setup QEMU through KVM (At a paint where it no longer needs updates).
 
@@ -34,6 +34,7 @@ I have been a working on code for a few years now and I'm still terrible at codi
 scoop bucket add games
 scoop install clonehero
 ```
+Just incase you havent realised it yet, the newest version of Clone Hero is v1.0.0.4080. I will try and update the script so that it installs but it will take time.
 
 ---
 ### Coding Languages/tools I know. (Or at least have tried to learn):
