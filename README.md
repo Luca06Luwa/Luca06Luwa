@@ -13,8 +13,6 @@ I have been a working on code for a few years now and I'm still terrible at codi
 ---
 ### Archived projects or projects that I don't want to work on anymore:
 
-- Clone Hero Control Panel (Made redundent by the upstream devs and by me adding CH to the scoop package manager).
-
 - Porting Clone Hero v1.0.0.4080-final to the scoop package manager (Didn't want to work out installers).
 
 - Packaging Frost Softwares programs to the scoop package manager (Didn't want to deal with it).
@@ -23,8 +21,6 @@ I have been a working on code for a few years now and I'm still terrible at codi
 
 ---
 ### Finished Projects:
-
-- Aroma CFW Guide for my own version of the guides.
 
 - Uploaded the guide I use to install Arch Linux and setup QEMU through KVM (At a paint where it no longer needs updates).
 
