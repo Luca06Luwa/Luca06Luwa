@@ -15,14 +15,10 @@ I have been a working on code for a few years now and I'm still terrible at codi
 
 - Porting Clone Hero v1.0.0.4080-final to the scoop package manager (Didn't want to work out installers).
 
-- Packaging Frost Softwares programs to the scoop package manager (Didn't want to deal with it).
-
 - Website (least of my worries).
 
 ---
 ### Finished Projects:
-
-- Uploaded the guide I use to install Arch Linux and setup QEMU through KVM (At a paint where it no longer needs updates).
 
 - Successfully ported Clone Hero Stable to the scoop package manager. (Only did it because I thought it was a good idea). If you want to install Clone Hero v0.23.2.2 just use the following commands:
 
