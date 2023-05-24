@@ -6,27 +6,24 @@ I have been a working on code for a few years now and I'm still terrible at codi
 ---
 ### Stuff I’m currently working on:
 
-- Converting the Linux Guides to the cleaner looking format md to replace the txt format
-
 - Other small shitty projects that don't work. (Most of the time).
 
 ---
 ### Archived projects or projects that I don't want to work on anymore:
 
-- Porting Clone Hero v1.0.0.4080-final to the scoop package manager (Didn't want to work out installers).
+- Converting the Linux Guides to the markdown format to replace the original txt based format
 
 - Website (least of my worries).
 
 ---
 ### Finished Projects:
 
-- Successfully ported Clone Hero Stable to the scoop package manager. (Only did it because I thought it was a good idea). If you want to install Clone Hero v0.23.2.2 just use the following commands:
+- Successfully ported Clone Hero to the scoop package manager. If you want to install the latest build of Clone Hero, just run the following commands:
 
 ```sh
 scoop bucket add games
 scoop install clonehero
 ```
-Just incase you havent realised it yet, the newest version of Clone Hero is v1.0.0.4080. I will try and update the script so that it installs but it will take time.
 
 ---
 ### Coding Languages/tools I know. (Or at least have tried to learn):
