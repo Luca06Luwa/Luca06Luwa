@@ -1,12 +1,14 @@
 Hello there. I'm Luca06Luwa. Founder and CEO of Abyssal Studios.
 ---
 
-I have been a working on code for a few years now and I'm still terrible at coding.
+I have been in the coding space for a while now and I still suck at it.
 
 ---
 ### Stuff I’m currently working on:
 
-- Other small shitty projects that don't work. (Most of the time).
+- Converting the written Linux Guides into an automated shell script.
+
+- Some small shitty projects that don't work. (Most of the time).
 
 ---
 ### Archived projects or projects that I don't want to work on anymore:
@@ -30,7 +32,6 @@ scoop install clonehero
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
