@@ -8,6 +8,8 @@ I have been in the coding space for a while now and I still suck at it.
 
 - Converting the written Linux Guides into an automated shell script.
 
+- Making ani-cli to scape services that AniMixPlay used to use.
+
 - Some small shitty projects that don't work. (Most of the time).
 
 ---
