@@ -1,26 +1,26 @@
 Hello there. I'm Luca06Luwa. Founder and CEO of Abyssal Studios.
 ---
 
-I have been in the coding space for a while now and I still suck at it.
+I have been in the coding space for a few years now and I's still just as bad as I was when I began.
 
 ---
 ### Stuff I’m currently working on:
-
-- Converting the written Linux Guides into an automated shell script.
-
-- Making ani-cli to scape services that AniMixPlay used to use.
 
 - Some small shitty projects that don't work. (Most of the time).
 
 ---
 ### Archived projects or projects that I don't want to work on anymore:
 
-- Converting the Linux Guides to the markdown format to replace the original txt based format
+- Converting the written Linux Guides into an automated shell script.
+
+- Making ani-cli to scape services that AniMixPlay used to use.
 
 - Website (least of my worries).
 
 ---
 ### Finished Projects:
+
+- Converting the Linux Guides to the markdown format to replace the original txt based format.
 
 - Successfully ported Clone Hero to the scoop package manager. If you want to install the latest build of Clone Hero, just run the following commands:
 
