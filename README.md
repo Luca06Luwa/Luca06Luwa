@@ -1,4 +1,4 @@
-Hello there. I'm Luca06Luwa. Founder and CEO of Abyssal Studios.
+Hello there. I'm Luca06Luwa. Founder and CEO of Abyssal Studios Pty Ltd.
 ---
 
 I have been in the coding space for a few years now and I's still just as bad as I was when I began.
