@@ -6,8 +6,6 @@ I have been in the coding space for a few years now and I's still just as bad as
 ---
 ### Stuff I’m currently working on:
 
-- (Pirvate) Adding .sng file support into YARG.
-
 - Some small shitty projects that don't work. (Most of the time).
 
 ---
