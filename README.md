@@ -1,21 +1,21 @@
-Hello there. I'm Luca06Luwa. Founder and CEO of Abyssal Studios Pty Ltd.
+Hello there. I'm Luna. Founder, CEO and only member of Abyssal Studios Pty Ltd.
 ---
 
-I have been in the coding space for a few years now and I's still just as bad as I was when I began.
+I have been in the programming and FOSS community for a few years now and I'm still just as bad as I was when I started.
 
 ---
 ### Stuff I’m currently working on:
 
 - Some small shitty projects that don't work. (Most of the time).
 
+- Website (least of my worries).
+
 ---
 ### Archived projects or projects that I don't want to work on anymore:
 
 - Converting the written Linux Guides into an automated shell script.
 
-- Making ani-cli to scape services that AniMixPlay used to use.
-
-- Website (least of my worries).
+- Making ani-cli to scape services that AniMixPlay used to use
 
 ---
 ### Finished Projects:
@@ -39,6 +39,6 @@ scoop install clonehero
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 ---
 
-<h3> Not sure how you got here but thanks for reading :) </h3>
+<b> Not sure how you got here but thanks for reading :) </b>
 
 
