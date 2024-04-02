@@ -1,4 +1,4 @@
-Hello there. I'm Luna. Founder, CEO and only member of LunaGames Pty Ltd.
+Hello there. I'm Luna. Founder, CEO and only member of LunaProductions.
 ---
 
 I have been in the programming and FOSS community for a few years now and I'm still just as bad as I was when I started.
