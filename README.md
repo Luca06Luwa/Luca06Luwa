@@ -6,9 +6,11 @@ I have been in the programming and FOSS community for a few years now and I'm st
 ---
 ### Stuff I’m currently working on:
 
-- Some small shitty projects that don't work. (Most of the time).
-
 - Website (least of my worries).
+
+- Setting up a self hosted Git server for some future projects. (This github account will not be going away after it's setup.)
+
+- Some small shitty projects that don't work. (Most of the time).
 
 ---
 ### Archived projects or projects that I don't want to work on anymore:
