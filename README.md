@@ -8,6 +8,8 @@ I have been in the programming and FOSS community for a few years now and I'm st
 
 - Website (least of my worries).
 
+- Requested: Building a motion tracker thats better than apples one
+
 - Setting up a self hosted Git server for some future projects. (This github account will not be going away after it's setup).
 
 - Rewriting ani-cli in c or c++. (God help me).
