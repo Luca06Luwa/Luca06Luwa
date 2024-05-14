@@ -6,7 +6,7 @@ I have been in the programming and FOSS community for a few years now and I'm st
 ---
 ### Stuff I’m currently working on:
 
-- A minecraft mod loader that doesn't care if it's forge or fabric. (Project MCMAPI)
+- A minecraft mod loader that doesn't care if it's forge or fabric. (MCModAPI)
 
 - Website (least of my worries).
 
