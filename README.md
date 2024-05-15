@@ -10,7 +10,7 @@ I have been in the programming and FOSS community for a few years now and I'm st
 
 - Website (least of my worries).
 
-- Requested: Building a motion tracker thats better than apples one
+- Requested: Building a motion tracker thats better than apples one. (God help me)
 
 - Setting up a self hosted Git server for some future projects. (This github account will not be going away after it's setup).
 
