@@ -8,13 +8,9 @@ I have been in the programming and FOSS community for a few years now and I'm st
 
 - A minecraft mod loader that doesn't care if it's forge or fabric. (MCModAPI)
 
+- A uninstaller for minecraft mod loaders and invasive mods.
+
 - Website (least of my worries).
-
-- Requested: Building a motion tracker thats better than apples one. (God help me)
-
-- Setting up a self hosted Git server for some future projects. (This github account will not be going away after it's setup).
-
-- Rewriting ani-cli in c or c++. (God help me).
 
 - Some small shitty projects that don't work. (Most of the time).
 
@@ -22,6 +18,13 @@ I have been in the programming and FOSS community for a few years now and I'm st
 ### Archived projects or projects that I don't want to work on anymore:
 
 - Converting the written Linux Guides into an automated shell script.
+
+- Requested: Building a motion tracker thats better than apples one. (God help me)
+
+- Setting up a self hosted Git server for some future projects. (This github account will not be going away after it's setup).
+
+- Rewriting ani-cli in c or c++. (God help me).
+
 
 ---
 ### Finished Projects:
