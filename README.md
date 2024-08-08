@@ -6,13 +6,7 @@ I have been in the programming and FOSS community for a few years now and I'm st
 ---
 ### Stuff I’m currently working on:
 
-- A minecraft mod loader that doesn't care if it's forge or fabric. (MCModAPI)
-
-- A uninstaller for minecraft mod loaders and invasive mods.
-
-- Website (least of my worries).
-
-- Some small shitty projects that don't work. (Most of the time).
+- Everything has been stopped. Can't be f*@#^$ working on this $h!t.
 
 ---
 ### Archived projects or projects that I don't want to work on anymore:
@@ -25,7 +19,14 @@ I have been in the programming and FOSS community for a few years now and I'm st
 
 - Rewriting ani-cli in c or c++. (God help me).
 
+- A minecraft mod loader that doesn't care if it's forge or fabric. (MCModAPI)
 
+- A uninstaller for minecraft mod loaders and invasive mods.
+
+- Website (least of my worries).
+
+- Some small shitty projects that don't work. (Most of the time).
+  
 ---
 ### Finished Projects:
 
