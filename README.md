@@ -1,12 +1,16 @@
-Hello there. I'm Luna. Founder, CEO and only member of LunaProductions.
+Hello there. I'm Lara. Founder, CEO and only member of LunaProductions.
 ---
 
-I have been in the programming and FOSS community for a few years now and I'm still just as bad as I was when I started.
+I have been active in the programming and FOSS community for a few years now and I'm still just as bad as I was when I started writing code.
+
+Announcement:<br>My old twitter account got nuked into oblivion, so I will now use a mastodon fork to make my own decentralised twitter.
 
 ---
 ### Stuff I’m currently working on:
 
 - Everything has been stopped. Can't be f*@#^$ working on this $h!t.
+
+- Rebuilding Ree you jinx build environment for personal builds of 1.1.1403
 
 ---
 ### Archived projects or projects that I don't want to work on anymore:
