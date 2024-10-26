@@ -3,14 +3,12 @@ Hello there. I'm Lara. Founder, CEO and only member of LunaProductions.
 
 I have been active in the programming and FOSS community for a few years now and I'm still just as bad as I was when I started writing code.
 
-Announcement:<br>My old twitter account got nuked into oblivion, so I will now use a mastodon fork to make my own decentralised twitter.
+Announcement:<br>My old twitter account got nuked into oblivion, so I will now make a mastodon fork to create my own decentralised twitter as a f u you elon.
 
 ---
 ### Stuff I’m currently working on:
 
 - Everything has been stopped. Can't be f*@#^$ working on this $h!t.
-
-- Rebuilding Ree you jinx build environment for personal builds of 1.1.1403
 
 ---
 ### Archived projects or projects that I don't want to work on anymore:
@@ -35,6 +33,8 @@ Announcement:<br>My old twitter account got nuked into oblivion, so I will now u
 ### Finished Projects:
 
 - Converting the Linux Guides to the markdown format to replace the original txt based format.
+
+- Rebuilding Ree you jinx build environment for personal builds of 1.1.1403 (no i will not give it to you, just use this [fork](https://github.com/ryujinx-mirror/ryujinx) instead)
 
 - Successfully ported Clone Hero to the scoop package manager. If you want to install the latest build of Clone Hero, just run the following commands:
 
