@@ -8,7 +8,9 @@ Announcement:<br>My old twitter account got nuked into oblivion, so I will now m
 ---
 ### Stuff I’m currently working on:
 
-- Everything has been stopped. Can't be f*@#^$ working on this $h!t.
+- A uninstaller for minecraft mod loaders and invasive mods.
+
+- Some small shitty projects that don't work. (Most of the time).
 
 ---
 ### Archived projects or projects that I don't want to work on anymore:
@@ -23,18 +25,14 @@ Announcement:<br>My old twitter account got nuked into oblivion, so I will now m
 
 - A minecraft mod loader that doesn't care if it's forge or fabric. (MCModAPI)
 
-- A uninstaller for minecraft mod loaders and invasive mods.
-
 - Website (least of my worries).
-
-- Some small shitty projects that don't work. (Most of the time).
   
 ---
 ### Finished Projects:
 
 - Converting the Linux Guides to the markdown format to replace the original txt based format.
 
-- Rebuilding Ree you jinx build environment for personal builds of 1.1.1403 (no i will not give it to you, just use this [fork](https://github.com/ryujinx-mirror/ryujinx) instead)
+- Rebuilding Ree you jynx build environment for personal builds of 1.1.1403 (no i will not give it to you, just use this [fork](https://github.com/GreemDev/Ryujinx) instead)
 
 - Successfully ported Clone Hero to the scoop package manager. If you want to install the latest build of Clone Hero, just run the following commands:
 
