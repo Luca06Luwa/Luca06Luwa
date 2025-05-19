@@ -3,7 +3,9 @@ Hello there. I'm Lara. Founder, CEO and only member of LunaProductions.
 
 I have been active in the programming and FOSS community for a few years now and I'm still just as bad as I was when I started writing code.
 
-Announcement:<br>Won't be doing much on here after patch 26 of my arch install guide is complete. Currently studying for a Cyber Secrity degree.
+If you stumble across my twitter or youtube and wonder why theres nothing posted to them in a while, long story short I'm barely active there and have basically disowned them.
+
+All major announcement will either be made here or somewhere else ^w^
 
 ---
 ### Stuff I’m currently working on:
