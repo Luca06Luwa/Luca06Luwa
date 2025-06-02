@@ -7,6 +7,8 @@ If you stumble across my twitter or youtube and wonder why theres nothing posted
 
 All major announcement will either be made here or somewhere else ^w^
 
+Announcement: Happy Pride Month!
+
 ---
 ### Stuff I’m currently working on:
 
