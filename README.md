@@ -1,4 +1,4 @@
-Hello there. I'm Lara. Founder, CEO and only member of LunaProductions.
+Hello there.
 ---
 
 I have been active in the programming and FOSS community for a few years now and I'm still just as bad as I was when I started writing code.
